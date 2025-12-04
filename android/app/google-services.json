@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227988883312",
+    "project_id": "evmu3-b93d0",
+    "storage_bucket": "evmu3-b93d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227988883312:android:c915e84eb83fae46caf1b5",
+        "android_client_info": {
+          "package_name": "com.evm.cursos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVLqEUlsp8a2iNqbfJCuWMGoFAbLMVPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227988883312:android:fc0096a532cd1be1caf1b5",
+        "android_client_info": {
+          "package_name": "com.example.evm_cursos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVLqEUlsp8a2iNqbfJCuWMGoFAbLMVPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
